@@ -20,3 +20,5 @@ ls -a (see hidden files too)
 mv file_to_move place_to_move_it_to
 ```
 `cp file_to_copy or folder place to save it to`
+
+Look up Vim
